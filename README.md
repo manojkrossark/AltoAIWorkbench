@@ -57,9 +57,13 @@ python -m venv venv
 venv\Scripts\activate
 
 **List of API endpoint to access:**
+
 forecast
+
 store-locations
+
 inventory-adjustment
+
 schedule-delivery
 
 ## Features
