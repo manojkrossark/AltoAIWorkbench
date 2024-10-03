@@ -62,9 +62,9 @@ venv\Scripts\activate
 
 - store-locations
 
- -inventory-adjustment
+ - inventory-adjustment
 
- -schedule-delivery
+ - schedule-delivery
 
 ## Features
 - **Predictive Analytics**: Real-time demand forecasting and inventory adjustments based on historical sales data.
