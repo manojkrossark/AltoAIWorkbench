@@ -25,6 +25,33 @@ Our solution automates alerts for low-stock items and facilitates cross-store in
 We provide tracking and reporting on the environmental impact of inventory, enabled by the data processing capabilities of NVIDIA AI Workbench. This allows retailers to monitor sustainability metrics and make informed decisions that align with their corporate social responsibility goals.
 
 
+Project Overview
+Features
+Smart Store Locator: Utilizes geospatial analytics to recommend optimal store locations based on customer demand and competition.
+Demand Forecasting Dashboard: Provides real-time demand forecasting using historical sales data and external trends.
+Dynamic Inventory Management: Automatically adjusts inventory based on predictive analytics and real-time sales data.
+Seamless Delivery & Installation Scheduler: Allows customers to select convenient delivery and installation times based on availability.
+
+## Installation and Setup
+
+Prerequisites
+NVIDIA AI Workbench: Ensure you have access to NVIDIA AI Workbench.
+GPU Instance: A suitable GPU instance is recommended for optimal performance.
+Python 3.x: Ensure Python is installed in your environment.
+
+**Installation Steps**
+**Upload Project Files:**
+Upload the entire SmartRetailProject/ folder to your NVIDIA AI Workbench environment.
+
+**Install Dependencies:**
+
+**Open a terminal in NVIDIA AI Workbench and run:**
+   
+pip install -r src/requirements.txt
+
+
+
+
 ## Features
 - **Predictive Analytics**: Real-time demand forecasting and inventory adjustments based on historical sales data.
 - **Customer Experience**: Personalized shopping experiences with tailored recommendations and scheduling for deliveries and installations.
