@@ -1,0 +1,9 @@
+store_id,store_name,location,latitude,longitude,competition_level
+1,Store A,New York,40.7128,-74.0060,High
+2,Store B,Los Angeles,34.0522,-118.2437,Medium
+3,Store C,Chicago,41.8781,-87.6298,Low
+4,Store D,Houston,29.7604,-95.3698,High
+5,Store E,Phoenix,33.4484,-112.0740,Medium
+6,Store F,Philadelphia,39.9526,-75.1652,Low
+7,Store G,San Antonio,29.4241,-98.4936,High
+8,Store H,San Diego,32.7157,-117.1611,Medium
