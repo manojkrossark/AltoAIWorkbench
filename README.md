@@ -58,13 +58,13 @@ venv\Scripts\activate
 
 **List of API endpoint to access:**
 
-forecast
+- forecast
 
-store-locations
+- store-locations
 
-inventory-adjustment
+ -inventory-adjustment
 
-schedule-delivery
+ -schedule-delivery
 
 ## Features
 - **Predictive Analytics**: Real-time demand forecasting and inventory adjustments based on historical sales data.
