@@ -49,8 +49,18 @@ Upload the entire SmartRetailProject/ folder to your NVIDIA AI Workbench environ
    
 pip install -r src/requirements.txt
 
+**To Run** 
+# Create a virtual environment
+python -m venv venv
 
+# Activate the virtual environment (Windows)
+venv\Scripts\activate
 
+**List of API endpoint to access:**
+/forecast
+/store-locations
+/inventory-adjustment
+/schedule-delivery
 
 ## Features
 - **Predictive Analytics**: Real-time demand forecasting and inventory adjustments based on historical sales data.
