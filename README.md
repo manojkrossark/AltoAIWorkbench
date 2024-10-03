@@ -1,4 +1,4 @@
-# AltoAIWorkbench
+# AltoAI - NVIDIA Workbench
 
 
 # Retail Intelligence Project
