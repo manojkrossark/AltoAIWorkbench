@@ -5,7 +5,7 @@
 **Demo Link:**
 https://alto-theta.vercel.app/
 
-![image](https://github.com/user-attachments/assets/7f59d750-961b-4048-8722-5f582bc8e7a6)
+![image](https://github.com/user-attachments/assets/84b5a72c-caf2-44d7-a270-734d8bdc49ee)
 ![techstack](https://github.com/user-attachments/assets/825b789e-dc4b-4c18-9d83-372774199b82)
 
 ## Overview
