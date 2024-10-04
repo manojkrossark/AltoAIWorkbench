@@ -1,10 +1,7 @@
-# AltoAI - NVIDIA Workbench
-
-
-# Retail Intelligence Project
+# AltoAI - NVIDIA AI WorkBench
 
 ## Overview
-The Retail Intelligence Project aims to revolutionize retail operations through intelligent automation and data-driven insights. This project leverages NVIDIA AI Workbench's capabilities to simplify the development of generative AI applications, enhance developer productivity, and optimize workflows in data science, AI, and machine learning.
+Alto aims to revolutionize retail operations through intelligent automation and data-driven insights. This project leverages NVIDIA AI Workbench's capabilities to simplify the development of generative AI applications, enhance developer productivity, and optimize workflows in data science, AI, and machine learning.
 
 
 Our project is designed to revolutionize retail operations through intelligent automation and data-driven insights, leveraging the capabilities of NVIDIA AI Workbench.
