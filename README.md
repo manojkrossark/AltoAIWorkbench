@@ -1,5 +1,7 @@
 # AltoAI - NVIDIA AI WorkBench
 
+## Intelligent Retail Automation
+
 ## Overview
 Alto aims to revolutionize retail operations through intelligent automation and data-driven insights. This project leverages NVIDIA AI Workbench's capabilities to simplify the development of generative AI applications, enhance developer productivity, and optimize workflows in data science, AI, and machine learning.
 
@@ -28,6 +30,28 @@ Smart Store Locator: Utilizes geospatial analytics to recommend optimal store lo
 Demand Forecasting Dashboard: Provides real-time demand forecasting using historical sales data and external trends.
 Dynamic Inventory Management: Automatically adjusts inventory based on predictive analytics and real-time sales data.
 Seamless Delivery & Installation Scheduler: Allows customers to select convenient delivery and installation times based on availability.
+
+
+
+
+**Demo Link:**
+https://alto-theta.vercel.app/
+
+![image](https://github.com/user-attachments/assets/7f59d750-961b-4048-8722-5f582bc8e7a6)
+![techstack](https://github.com/user-attachments/assets/825b789e-dc4b-4c18-9d83-372774199b82)
+
+
+
+
+![image](https://github.com/user-attachments/assets/dbc8c554-b050-4bd6-8d05-5795e62ea244)
+
+
+![image](https://github.com/user-attachments/assets/bba4d6cb-67a7-4f78-bd79-de5c6e18bd6d)
+
+![image](https://github.com/user-attachments/assets/88297060-5e62-432e-aa5a-a36097a8c5f0)
+
+![image](https://github.com/user-attachments/assets/f2122315-6028-470d-be3d-90932a1b598b)
+
 
 ## Installation and Setup
 
